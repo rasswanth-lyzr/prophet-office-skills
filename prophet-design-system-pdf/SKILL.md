@@ -4,7 +4,7 @@ description: Use this skill whenever the user wants to do anything with PDF file
 license: Proprietary. LICENSE.txt has complete terms
 ---
 
-# PDF Processing Guide
+# prophet-design-system-pdf — PDF Processing Guide (Prophet design system)
 
 ## Overview
 

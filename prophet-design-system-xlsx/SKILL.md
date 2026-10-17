@@ -4,7 +4,7 @@ description: "Use this skill any time a spreadsheet file is the primary input or
 license: Proprietary. LICENSE.txt has complete terms
 ---
 
-# XLSX creation, editing, and analysis
+# prophet-design-system-xlsx — XLSX creation, editing, and analysis (Prophet design system)
 
 | Task | Approach |
 |---|---|

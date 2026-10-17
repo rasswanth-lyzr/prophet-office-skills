@@ -4,7 +4,7 @@ description: "Use this skill any time a .pptx or .potx file is involved in any w
 license: Proprietary. LICENSE.txt has complete terms
 ---
 
-# PPTX creation, editing, and analysis
+# prophet-design-system-pptx — PPTX creation, editing, and analysis (Prophet design system)
 
 A `.pptx` is a ZIP archive of XML files. Choose your approach by task:
 

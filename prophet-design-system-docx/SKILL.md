@@ -4,7 +4,7 @@ description: "Use this skill whenever the user wants to create, read, edit, or m
 license: Proprietary. LICENSE.txt has complete terms
 ---
 
-# DOCX creation, editing, and analysis
+# prophet-design-system-docx — DOCX creation, editing, and analysis (Prophet design system)
 
 A `.docx` is a ZIP archive of XML files. Choose your approach by task:
 
